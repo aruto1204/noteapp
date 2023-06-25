@@ -7,7 +7,7 @@ import uuid from "react-uuid";
 const testNewNote = {
   id: uuid(),
   title: "説明",
-  content: "ノートアプリケーション<br>データベース等を使わずにローカルストレージに保存されるノートアプリケーションです。",
+  content: "データベース等を使わずにローカルストレージに保存されるノートアプリケーションです。",
   modDate: Date.now(),
 };
 
